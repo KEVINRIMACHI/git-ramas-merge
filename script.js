@@ -17,4 +17,4 @@ function deshacer() {
   document.getElementById('pantalla').value = valorPantalla.slice(0, -1);
 }
 
-alert(prompt("ingrese alerta"))
+alert("hola mundo")
