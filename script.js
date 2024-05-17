@@ -17,3 +17,5 @@ function deshacer() {
   const resultado = valorPantalla.substring(0, valorPantalla.lenght - 1);
   document.getElementById("pantalla").value = resultado;
 }
+
+alert("hola mundo")
